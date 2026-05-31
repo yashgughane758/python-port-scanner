@@ -16,12 +16,8 @@ Socket Module
 Threading Module
 
 HOW TO RUN:
-Clone Repository
-        ↓
-Open Project Folder
-        ↓
-Run Program
-        ↓
-Enter Target IP Address
-        ↓
-View Scan Results
+1.Clone Repository
+2.Open Project Folder
+3.Run Program
+4.Enter Target IP Address
+5.View Scan Results
